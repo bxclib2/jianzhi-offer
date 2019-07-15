@@ -4,3 +4,4 @@ threeSum
 3Sum Closest
 4Sum
 22. Generate Parentheses
+Longest Increasing Path in a Matrix    
