@@ -3,3 +3,4 @@ Longest Palindromic Substring
 threeSum
 3Sum Closest
 4Sum
+22. Generate Parentheses
