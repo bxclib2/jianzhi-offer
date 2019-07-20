@@ -1,4 +1,6 @@
 def countingSort(l):
+    if l == []:
+        return l
     minimal = min(l)
     maximal = max(l)
     for i in range(len(l)):
