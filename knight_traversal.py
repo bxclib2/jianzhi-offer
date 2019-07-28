@@ -1,7 +1,7 @@
 import numpy as np
 dx = [1,2,2,1,-1,-2,-2,-1]
 dy = [2,1,-1,-2,-2,-1,1,2]
-def knight_travesal(n = 8,start = (0,0)):
+def knight_traversal(n = 8,start = (0,0)):
     chess_board = np.zeros((n,n)) - 1
     step = 0
     res = dfs(chess_board,step,start,n)
