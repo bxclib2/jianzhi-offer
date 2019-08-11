@@ -8,9 +8,6 @@ Design Search Autocomplete System
 547. Friend Circles
 947. Most Stones Removed with Same Row or Column
 
-hashmap
-347. Top K Frequent Elements
-
 Binary Tree Vertical Order Traversal
 
 973. K Closest Points to Origin 
