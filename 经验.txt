@@ -13,9 +13,6 @@ Binary Tree Vertical Order Traversal
 973. K Closest Points to Origin 
 252	Meeting Rooms 优先队列
 
-2 pointer
-43 42. Trapping Rain Water
-
 图 DFS 不递归的
 207. Course Schedule DFS 或者拓扑排序
 269	Alien Dictionary 拓扑排序
