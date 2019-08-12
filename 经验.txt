@@ -14,7 +14,6 @@ Binary Tree Vertical Order Traversal
 252	Meeting Rooms 优先队列
 
 2 pointer
-15. 3Sum 
 43 42. Trapping Rain Water
 
 图 DFS 不递归的
