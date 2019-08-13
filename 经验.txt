@@ -19,8 +19,6 @@ stack 224. Basic Calculator
 
 回溯 93. Restore IP Addresses
 
-双端队列 239. Sliding Window Maximum
-
 Binary Search Tree
 
 173. Binary Search Tree Iterator
