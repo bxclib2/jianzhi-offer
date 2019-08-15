@@ -9,9 +9,7 @@ Design Search Autocomplete System
 947. Most Stones Removed with Same Row or Column
 
 Binary Tree Vertical Order Traversal
-
-973. K Closest Points to Origin 
-252	Meeting Rooms 优先队列
+python 常见面试题
 
 207. Course Schedule DFS 或者拓扑排序
 269	Alien Dictionary 拓扑排序
