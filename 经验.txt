@@ -4,8 +4,7 @@ DP 10. Regular Expression Matching
 Implement Trie (Prefix Tree)
 Design Search Autocomplete System
 
-200. Number of Islands 用Union Find
-547. Friend Circles
+
 947. Most Stones Removed with Same Row or Column
 
 Binary Tree Vertical Order Traversal
